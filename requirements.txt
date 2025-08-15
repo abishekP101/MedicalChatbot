@@ -1,5 +1,6 @@
 langchain==0.3.26
 langchain-groq==0.3.6
+sentence-transformers
 flask==3.1.1
 pypdf==5.6.1
 python-dotenv==1.0.0
