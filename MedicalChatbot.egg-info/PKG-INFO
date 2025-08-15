@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: MedicalChatbot
+Version: 0.1.0
+Summary: A medical chatbot application using LangChain and Pinecone
+Author: Abishek Prasad
+Author-email: abishek.456.prasad@gmail.com
+License-File: LICENSE
+Dynamic: author
+Dynamic: author-email
+Dynamic: license-file
+Dynamic: summary
